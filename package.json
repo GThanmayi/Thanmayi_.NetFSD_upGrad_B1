@@ -1,0 +1,19 @@
+{
+  "name": "elearning-platform",
+  "version": "1.0.0",
+  "description": "Multi-page E-Learning Platform frontend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
